@@ -18,4 +18,4 @@
 
 - Red - Make a test fail
 - Green - Write JUST ENOUGH production code to make the test pass
-- Refactor - Can you improve the code? <terminator>Do it... do it now!</terminator>
+- Refactor - Can you improve the code? Now is the time!
