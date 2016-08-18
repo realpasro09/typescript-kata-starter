@@ -4,6 +4,7 @@
 
 - Node 4.x+ - https://nodejs.org/en/download/
 - WallabyJs - https://wallabyjs.com/
+- Your favorite editor - This has been tested with VS Code
 
 ### Install Node Globals
 
