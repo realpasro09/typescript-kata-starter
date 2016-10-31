@@ -15,6 +15,7 @@
 - `npm install`
 
 ### Getting started
+- Run Specs - `gulp`
 
 - Red - Make a test fail
 - Green - Write JUST ENOUGH production code to make the test pass
